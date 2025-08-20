@@ -21,6 +21,9 @@
 <div style="display: inline_block"><br>
 <h1>LEARNING</h1>
 <img align="center" alt="visao-ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="visao-ts" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white">
+<img align="center" alt="visao-ts" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
 
 <h2 align="center"> Discord Status: </h2>
 <p align="center">
