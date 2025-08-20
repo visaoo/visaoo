@@ -13,6 +13,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="visao-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="visao-ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="visao-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
   <img align="right" alt="visao-img" src="https://media.discordapp.net/attachments/567069532913401867/871993898535358524/download20210801164217.png">
 </div>
